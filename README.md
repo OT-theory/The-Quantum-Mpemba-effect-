@@ -1,0 +1,1 @@
+This repository contains my work completed on the Mpemba effect. My code primarily consists of analysing quantum systems under different initial conditions and different distance meassures to dsicover when an Mpemba effect is and isnt possible
